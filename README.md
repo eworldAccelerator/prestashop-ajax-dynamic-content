@@ -1,0 +1,1 @@
+# prestashop-ajax-dynamic-content
